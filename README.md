@@ -4,12 +4,11 @@ This app was made using:
 -Visual Studio
 -Phaser
 -Illuminated.js
--Phaser-Illuminated.js
 -Phaser transitions plugin
 -Crosswalk
 -Apache Cordova
 
-The app can be run like any other cordova app, but irs easiest to simply run as a VS project file.
+It is, and can be run as, a stardard cordova app. This means it will run in browser or as a completed APK.
 
 You control by moving your input around the screen.
 
