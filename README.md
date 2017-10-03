@@ -16,4 +16,6 @@ The object of the game is the bounce the ball as many times as possible
 
 
 
-Due to limitations with Illuminated.js the light source intensity could not be adjusted without significant drops in framerate.
+Due to limitations with Illuminated.js the light source intensity could not be adjusted without significant drops in framerate. Project was abandoned, though would run much better with a better optimized lighting engine.
+
+Live Version: https://stackattack.itch.io/bounce
